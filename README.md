@@ -1,1 +1,1 @@
-# SendgridLabs Open Source
+# SendGrid Labs
